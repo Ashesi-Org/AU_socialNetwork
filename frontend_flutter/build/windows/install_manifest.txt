@@ -1,0 +1,10 @@
+C:/Users/user/OneDrive - Ashesi University/Desktop/Academics/Level300/Semester1/Web Tech/AU_socialNetwork/frontend_flutter/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/user/OneDrive - Ashesi University/Desktop/Academics/Level300/Semester1/Web Tech/AU_socialNetwork/frontend_flutter/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/user/OneDrive - Ashesi University/Desktop/Academics/Level300/Semester1/Web Tech/AU_socialNetwork/frontend_flutter/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/user/OneDrive - Ashesi University/Desktop/Academics/Level300/Semester1/Web Tech/AU_socialNetwork/frontend_flutter/build/windows/runner/Debug/data/flutter_assets/assets/images/image1.png
+C:/Users/user/OneDrive - Ashesi University/Desktop/Academics/Level300/Semester1/Web Tech/AU_socialNetwork/frontend_flutter/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/user/OneDrive - Ashesi University/Desktop/Academics/Level300/Semester1/Web Tech/AU_socialNetwork/frontend_flutter/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/user/OneDrive - Ashesi University/Desktop/Academics/Level300/Semester1/Web Tech/AU_socialNetwork/frontend_flutter/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/user/OneDrive - Ashesi University/Desktop/Academics/Level300/Semester1/Web Tech/AU_socialNetwork/frontend_flutter/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/user/OneDrive - Ashesi University/Desktop/Academics/Level300/Semester1/Web Tech/AU_socialNetwork/frontend_flutter/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/user/OneDrive - Ashesi University/Desktop/Academics/Level300/Semester1/Web Tech/AU_socialNetwork/frontend_flutter/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

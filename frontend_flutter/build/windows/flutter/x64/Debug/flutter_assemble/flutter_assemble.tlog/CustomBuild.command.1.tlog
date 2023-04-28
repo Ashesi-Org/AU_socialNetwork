@@ -1,0 +1,28 @@
+^C:\USERS\USER\ONEDRIVE - ASHESI UNIVERSITY\DESKTOP\ACADEMICS\LEVEL300\SEMESTER1\WEB TECH\AU_SOCIALNETWORK\FRONTEND_FLUTTER\BUILD\WINDOWS\CMAKEFILES\029CB3EFD54260AEFFCD8D9537076D68\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\user\flutter\flutter "PROJECT_DIR=C:\Users\user\OneDrive - Ashesi University\Desktop\Academics\Level300\Semester1\Web Tech\AU_socialNetwork\frontend_flutter" FLUTTER_ROOT=C:\Users\user\flutter\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\user\OneDrive - Ashesi University\Desktop\Academics\Level300\Semester1\Web Tech\AU_socialNetwork\frontend_flutter\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\user\OneDrive - Ashesi University\Desktop\Academics\Level300\Semester1\Web Tech\AU_socialNetwork\frontend_flutter" "FLUTTER_TARGET=C:\Users\user\OneDrive - Ashesi University\Desktop\Academics\Level300\Semester1\Web Tech\AU_socialNetwork\frontend_flutter\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\user\OneDrive - Ashesi University\Desktop\Academics\Level300\Semester1\Web Tech\AU_socialNetwork\frontend_flutter\.dart_tool\package_config.json" C:/Users/user/flutter/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\ONEDRIVE - ASHESI UNIVERSITY\DESKTOP\ACADEMICS\LEVEL300\SEMESTER1\WEB TECH\AU_SOCIALNETWORK\FRONTEND_FLUTTER\BUILD\WINDOWS\CMAKEFILES\107233B85D84DDCADB8468A3188C02AE\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\ONEDRIVE - ASHESI UNIVERSITY\DESKTOP\ACADEMICS\LEVEL300\SEMESTER1\WEB TECH\AU_SOCIALNETWORK\FRONTEND_FLUTTER\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/user/OneDrive - Ashesi University/Desktop/Academics/Level300/Semester1/Web Tech/AU_socialNetwork/frontend_flutter/windows" "-BC:/Users/user/OneDrive - Ashesi University/Desktop/Academics/Level300/Semester1/Web Tech/AU_socialNetwork/frontend_flutter/build/windows" --check-stamp-file "C:/Users/user/OneDrive - Ashesi University/Desktop/Academics/Level300/Semester1/Web Tech/AU_socialNetwork/frontend_flutter/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

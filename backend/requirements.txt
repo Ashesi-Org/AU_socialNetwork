@@ -1,0 +1,7 @@
+flask
+bcrypt
+firebase-admin
+functions_framework
+google-cloud-functions==1.6.0
+google-cloud-firestore==2.1.1
+flask_cors
